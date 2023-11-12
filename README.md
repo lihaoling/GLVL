@@ -1,10 +1,11 @@
-# GLVL
-
 # Jointly Optimized Global-Local Visual Localization of UAVs
 
 The current project page provides [pytorch](http://pytorch.org/) code that implements the following paper:
+
 **Title:**      "Jointly Optimized Global-Local Visual Localization of UAVs"
+
 **Authors:**     Haoling Li, Jiuniu Wang, Zhiwei Wei, [Wenjia Xu*](https://wenjia.ruantang.top/)
+
 **Paper:**  [https://arxiv.org/pdf/2310.08082.pdf](https://arxiv.org/pdf/2310.08082.pdf)
 
 **Abstract:**
